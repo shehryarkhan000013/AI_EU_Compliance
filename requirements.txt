@@ -1,0 +1,8 @@
+streamlit
+haystack-ai
+pypdf
+python-dotenv
+google-ai-haystack
+fpdf2
+matplotlib
+google-generativeai
