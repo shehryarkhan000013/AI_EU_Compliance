@@ -40,9 +40,7 @@ Respond strictly in JSON format with the following structure. Do not include any
  
 def get_compliance_pipeline():
     # Initialize the Gemini Generator. It expects GOOGLE_API_KEY in the environment.
-    # Using gemini-2.0-flash as requested (assuming 2.5 was a typo for 2.0 or newest)
-    # If 2.5 is specifically required by the user, we will use exactly that.
-    generator = GoogleAIGeminiGenerator(model="gemini-2.5-flash")
+    generator = GoogleAIGeminiGenerator(model="gemini-3-flash-preview")
     
     # Initialize PyPDF to Document converter
     pdf_converter = PyPDFToDocument()
