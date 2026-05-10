@@ -41,6 +41,10 @@ The core features include:
    ```bash
    streamlit run app.py
    ```
+   [![Watch the demonstration](https://img.youtube.com/vi/TkafK_QuHLA/maxresdefault.jpg)](https://youtu.be/TkafK_QuHLA)
+   
+
+
 
 ## 🔒 Commitment to Sovereign AI
 
