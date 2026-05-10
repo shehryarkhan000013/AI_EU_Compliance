@@ -41,6 +41,8 @@ The core features include:
    ```bash
    streamlit run app.py
    ```
+   **Video Demonstration
+   
    [![Watch the demonstration](https://img.youtube.com/vi/TkafK_QuHLA/maxresdefault.jpg)](https://youtu.be/TkafK_QuHLA)
    
 
